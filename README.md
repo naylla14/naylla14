@@ -3,7 +3,7 @@
 -  
 - 🌱 I’m currently learning diffrent programming languages
 - 💞️ I’m looking to collaborate on a small beginner freindly project based on java and python languages
-- 📫 You can reach me through my email "@nailabaig77@gmail.com"
+- 📫 You can reach me through my email "@nailabaig77@gmail.com" or drop a message on "8408841345"
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:: When I'm not coding, I love to play chess.
    The strategic thinking involved in chess helps me approach complex coding problems with a fresh perspective!
